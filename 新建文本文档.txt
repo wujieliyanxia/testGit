@@ -1,0 +1,4 @@
+1、spring spring-mvc mybatis spring-boot spring-cloud 熟悉了解工作原理
+2、设计模式
+3、git
+4、Kafka activeMq
